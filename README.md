@@ -1,6 +1,7 @@
 Testing
 =======
 
-Try to use git 
 
 The course in CNA ... 
+
+Try to be the master of Git(?!
